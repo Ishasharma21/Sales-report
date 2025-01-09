@@ -1,1 +1,1 @@
-This powerbi dashboard is about representing analysis of logistics and sales of products.
+This Power Bi dashboard is about analysis of logistics and sales of products.this report provides a clear overview of sales performance of products and review of shipment mode, shipment days and more.
